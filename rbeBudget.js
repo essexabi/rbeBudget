@@ -2,7 +2,7 @@
 const baseDeDatos = [
     {
         id: 1,
-        nombre: 'competencia',
+        nombre: 'cuota ZTC',
         precioMoonshot: 26,
         precioFast2: 26,
         imagen: 'imgs/Bodegon-alarmas-transparente.png',
@@ -11,7 +11,7 @@ const baseDeDatos = [
     },
     {
         id: 2,
-        nombre: 'sin competencia',
+        nombre: 'cuota',
         precioMoonshot: 32,
         precioFast2: 32,
         imagen: 'imgs/Bodegon-alarmas-transparente.png'
@@ -20,14 +20,14 @@ const baseDeDatos = [
     {
         id: 3,
         nombre: 'shocksensor',
-        precioMoonshot: 1.24,
+        precioMoonshot: 1.00,
         precioFast2: 1.00,
         imagen: 'imgs/shocksensor.PNG'
     },
     {
         id: 4,
         nombre: 'fotodetector',
-        precioMoonshot: 2.48,
+        precioMoonshot: 2.00,
         precioFast2: 2.00,
         imagen: 'imgs/fotodetector.PNG'
     },
